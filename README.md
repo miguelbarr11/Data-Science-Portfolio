@@ -1,2 +1,2 @@
-# Portfolio
-Data science portfolio 
+# Data Science Portfolio
+## Linear Regression
