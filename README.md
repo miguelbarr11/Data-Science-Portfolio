@@ -6,6 +6,9 @@
 
 ![Figure 1.](https://github.com/miguelbarr11/Data-Science-Portfolio/blob/main/Images/Project%201/REGRESION.png)
 
+![Figure 2.](https://github.com/miguelbarr11/Data-Science-Portfolio/Images/Project%201/REGRESION.png)
+
+
 
 
 
