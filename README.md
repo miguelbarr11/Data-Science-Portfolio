@@ -8,6 +8,8 @@
 
 ![Figure 2](miguelbarr11/Data-Science-Portfolio/Images/REGRESION.png)
 
+![Figure 3.](https://github.com/miguelbarr11/Data-Science-Portfolio/Images/Project%201/REGRESION.png)
+
 
 
 
