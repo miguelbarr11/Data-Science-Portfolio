@@ -6,7 +6,7 @@
 
 ![Figure 1.](https://github.com/miguelbarr11/Data-Science-Portfolio/blob/main/Images/Project%201/REGRESION.png)
 
-![Figure 2.](/github.com/miguelbarr11/Data-Science-Portfolio/Images/Project 1/REGRESION.png)
+![Figure 2](miguelbarr11/Data-Science-Portfolio/Images/Project 1/REGRESION.png)
 
 
 
