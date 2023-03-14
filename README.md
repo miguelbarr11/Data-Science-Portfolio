@@ -12,6 +12,8 @@
 
 <img src="./miguelbarr11/Data-Science-Portfolio/Images/REGRESION.png" alt="lasagna">
 
+<img src="https://github.com/miguelbarr11/Data-Science-Portfolio/blob/main/Images/Project%201/REGRESION.png" alt="lasagna">
+
 
 
 
