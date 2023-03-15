@@ -1,19 +1,8 @@
-# [Project 1: Linear Regression](https://miguelbarr11.github.io/Data-Science-Portfolio/)
+# Projects
 
-## Overview
+## Index
 
-* Created a model that estimates future values between x variable and y variable 
-
-![Figure 1.](https://github.com/miguelbarr11/Data-Science-Portfolio/blob/main/Images/Project%201/REGRESION.png)
-
-![Figure 2](./miguelbarr11/Data-Science-Portfolio/Images/REGRESION.png)
-
-![Figure 3.](https://github.com/miguelbarr11/Data-Science-Portfolio/Images/Project%201/REGRESION.png)
-
-<img src="./miguelbarr11/Data-Science-Portfolio/Images/REGRESION.png" alt="lasagna01">
-
-<img src="https://github.com/miguelbarr11/Data-Science-Portfolio/blob/main/Images/Project%201/REGRESION.png" alt="lasagna02">
-
+[Project 1.](https://www.example.com)
 
 
 
