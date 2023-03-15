@@ -2,7 +2,7 @@
 
 ## Index
 
-[Project 1.]([https://www.example.com](https://github.com/miguelbarr11/Data-Science-Portfolio/tree/main/Project01))
+ * [Project 1.](https://github.com/miguelbarr11/Data-Science-Portfolio/tree/main/Project01)
 
 
 
